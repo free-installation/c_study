@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\study_c\\game1 chess 10_31\\game1 chess 10_31\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E822BD5-9271-4AC8-B4A2-561AB890B65B}|game1 chess 10_31.vcxproj|E:\\code\\study_c\\game1 chess 10_31\\game1 chess 10_31\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E822BD5-9271-4AC8-B4A2-561AB890B65B}|game1 chess 10_31.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E822BD5-9271-4AC8-B4A2-561AB890B65B}|game1 chess 10_31.vcxproj|E:\\code\\study_c\\game1 chess 10_31\\game1 chess 10_31\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E822BD5-9271-4AC8-B4A2-561AB890B65B}|game1 chess 10_31.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E822BD5-9271-4AC8-B4A2-561AB890B65B}|game1 chess 10_31.vcxproj|E:\\code\\study_c\\game1 chess 10_31\\game1 chess 10_31\\game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E822BD5-9271-4AC8-B4A2-561AB890B65B}|game1 chess 10_31.vcxproj|solutionrelative:game.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.c",
+              "DocumentMoniker": "E:\\code\\study_c\\game1 chess 10_31\\game1 chess 10_31\\game.c",
+              "RelativeDocumentMoniker": "game.c",
+              "ToolTip": "E:\\code\\study_c\\game1 chess 10_31\\game1 chess 10_31\\game.c",
+              "RelativeToolTip": "game.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-31T11:52:44.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.h",
+              "DocumentMoniker": "E:\\code\\study_c\\game1 chess 10_31\\game1 chess 10_31\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "E:\\code\\study_c\\game1 chess 10_31\\game1 chess 10_31\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T08:21:18.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "E:\\code\\study_c\\game1 chess 10_31\\game1 chess 10_31\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "E:\\code\\study_c\\game1 chess 10_31\\game1 chess 10_31\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-31T08:20:54.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
