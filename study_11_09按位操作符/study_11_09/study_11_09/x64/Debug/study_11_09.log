@@ -1,0 +1,3 @@
+﻿  practic.c
+E:\code\study_c\study_11_09\study_11_09\practic.c(18,8): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  study_11_09.vcxproj -> E:\code\study_c\study_11_09\study_11_09\x64\Debug\study_11_09.exe
