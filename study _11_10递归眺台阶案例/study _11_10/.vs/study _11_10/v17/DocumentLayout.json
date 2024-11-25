@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\study_c\\study _11_10\\study _11_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C53F8839-B285-4DE9-BED3-67EACD420F51}|study _11_10.vcxproj|E:\\code\\study_c\\study _11_10\\study _11_10\\water.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C53F8839-B285-4DE9-BED3-67EACD420F51}|study _11_10.vcxproj|solutionrelative:water.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "water.c",
+              "DocumentMoniker": "E:\\code\\study_c\\study _11_10\\study _11_10\\water.c",
+              "RelativeDocumentMoniker": "water.c",
+              "ToolTip": "E:\\code\\study_c\\study _11_10\\study _11_10\\water.c",
+              "RelativeToolTip": "water.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-10T15:24:41.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
