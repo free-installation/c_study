@@ -1,0 +1,3 @@
+﻿  study.c
+E:\code\study_c\study_11_02\11_02\study.c(28,1): warning C4715: “make”: 不是所有的控件路径都返回值
+  11_02.vcxproj -> E:\code\study_c\study_11_02\11_02\x64\Debug\11_02.exe
