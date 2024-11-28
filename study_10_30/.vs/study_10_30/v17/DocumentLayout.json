@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\code\\study_c\\study_10_30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01EE82DF-41AD-4EC0-A59B-3F5AC3EC44D6}|study_10_30.vcxproj|E:\\code\\study_c\\study_10_30\\practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01EE82DF-41AD-4EC0-A59B-3F5AC3EC44D6}|study_10_30.vcxproj|solutionrelative:practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice.c",
+              "DocumentMoniker": "E:\\code\\study_c\\study_10_30\\practice.c",
+              "RelativeDocumentMoniker": "practice.c",
+              "ToolTip": "E:\\code\\study_c\\study_10_30\\practice.c*",
+              "RelativeToolTip": "practice.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-30T03:49:54.93Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
