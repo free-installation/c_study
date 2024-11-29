@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\code\\study_c\\study_11_02\\11_02\\",
+  "WorkspaceRootPath": "E:\\gitub code\\c_study\\study_11_02\\11_02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6867707A-0BEA-4CDC-831B-F7F9E3AF50BF}|11_02.vcxproj|E:\\code\\study_c\\study_11_02\\11_02\\study.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{6867707A-0BEA-4CDC-831B-F7F9E3AF50BF}|11_02.vcxproj|E:\\gitub code\\c_study\\study_11_02\\11_02\\study.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6867707A-0BEA-4CDC-831B-F7F9E3AF50BF}|11_02.vcxproj|solutionrelative:study.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "study.c",
-              "DocumentMoniker": "E:\\code\\study_c\\study_11_02\\11_02\\study.c",
+              "DocumentMoniker": "E:\\gitub code\\c_study\\study_11_02\\11_02\\study.c",
               "RelativeDocumentMoniker": "study.c",
-              "ToolTip": "E:\\code\\study_c\\study_11_02\\11_02\\study.c",
+              "ToolTip": "E:\\gitub code\\c_study\\study_11_02\\11_02\\study.c",
               "RelativeToolTip": "study.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
